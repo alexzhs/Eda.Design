@@ -285,7 +285,7 @@ line-height: 23px;
     left: 16px;
     top: 16px;
     border-radius: 30px;
-    width: 65.48px;
+    width: auto;
     height: 33px;
     left: 10.07px;
     top: 16px;
@@ -296,8 +296,66 @@ line-height: 23px;
 
   .tag-health {
     background: #D0FD89;
-    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #49494F;
   }
+
+  .vegetables {
+    background: #AEBC41;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+  .meat {
+    background: #B86B78;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+  .bird {
+    background: #D68334;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+  .fish {
+    background: #CD6255;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+.baby {
+color: #49494F;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+}
+
+.parents {
+  background: #F6FDC8;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  color: #49494F;
+}
+
+.festive {
+  background: #FEF7FE;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  color: #49494F;
+}
 
   .section-gray {
     background: #F6F6F6;
