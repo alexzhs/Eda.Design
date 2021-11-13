@@ -335,6 +335,7 @@ line-height: 23px;
   }
 
 .baby {
+background: #FFFDBF;
 color: #49494F;
 font-weight: 500;
 font-size: 20px;
@@ -464,7 +465,76 @@ line-height: 23px;
     margin: auto;
     margin-top: 60px;
     width: 315px;
+    margin-bottom: 100px;
   }
+
+  .advantages {
+  background: #FFFFFF;
+  margin-bottom: 200px;
+  }
+
+  .advantages-content {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.advantages-title {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 23px;
+ color: #000000;
+ margin-bottom: 52px;
+}
+
+  .advantages-card {
+   max-width: 270px;
+  background: #FFFFFF;
+  border: 1px solid #E9E9E9;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 18px;
+  }
+
+
+  .advantages-title-card {
+    max-width: 158px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000000;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .advantages-image {
+    margin-left: 105px;
+    margin-right: 105px;
+    margin-top: 30px;
+    margin-bottom: 34px;
+  }
+
+.advantages-description {
+  max-width: 223px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 22px;
+  color: #49494F;
+  margin-top: 13px;
+  margin-left: 23px;
+  margin-right: 23px;
+  margin-bottom: 25px;
+}
+
+.advantages-title-card-car{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 23px;
+  text-align: center;
+  color: #000000;
+  margin-left: 40px;
+  margin-right: 38px;
+}
 
  .footer {
    padding: 40px 0;
