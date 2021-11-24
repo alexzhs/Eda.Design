@@ -171,7 +171,7 @@ line-height: 23px;
 .slide-summer {
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.43) 40.45%, rgba(0, 0, 0, 0) 100%),
   url(.png);
-  background-image: url(/img/png/summer.png);
+  background-image: url(../img/png/summer.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -179,7 +179,7 @@ line-height: 23px;
 .slide-autumn {
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.43) 40.45%, rgba(0, 0, 0, 0) 100%),
   url(.png);
-  background-image: url(/img/png/autumn_vegetables.png);
+  background-image: url(../img/png/autumn_vegetables.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -187,7 +187,7 @@ line-height: 23px;
 .slide-vitamin {
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.43) 40.45%, rgba(0, 0, 0, 0) 100%),
     url(.png);
-  background-image: url(/img/png/vitamin_week.png);
+  background-image: url(../img/png/vitamin_week.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
