@@ -179,7 +179,7 @@ line-height: 23px;
 .slide-autumn {
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.43) 40.45%, rgba(0, 0, 0, 0) 100%),
   url(.png);
-  background-image: url(../img/png/autumn_vegetables.png);
+  background-image: url('../img/png/autumn_vegetables.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -273,12 +273,12 @@ line-height: 23px;
   }
 
   .sweet-basket {
-    background: url(/img/png/sweet-basket.png) no-repeat center / cover;
+    background: url('../img/png/sweet-basket.png') no-repeat center / cover;
     margin: 0;
   }
 
   .minimum {
-    background: url(/img/png/minimum.png) no-repeat center / cover;
+    background: url('../img/png/minimum.png') no-repeat center / cover;
     margin: 0;
   }
 
